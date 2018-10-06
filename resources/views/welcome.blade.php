@@ -34,7 +34,7 @@
                             <div class="signup-content">
                                 <div class="signup-form">
                                     <h2 class="form-title">Registrarse</h2>
-                                    <form method="POST" class="register-form" id="register-form">
+                                    <form method="POST" class="register-form" id="register-form" action="inicio">
                                         <div class="form-group">
                                             <label for="nombre"><i class="zmdi zmdi-account material-icons-name"></i></label>
                                             <input type="text" name="nombre" id="nombre" placeholder="Ingresa nombre"/>
