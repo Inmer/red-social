@@ -12,14 +12,20 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('blog');
 });
 
+Auth::routes();
 
-Route::get('/login', function () {
-    return view('login');
+Route::get('/blog', 'Web\PageController@blog')->name('blog');
+Route::get('/blade', function () {
+    return view('tests/test1');
 });
 
-Route::get('/inicio', function () {
-    return view('inicio');
-});
+Route::get('/post/{slug}', 'Web\PageController@post')->name('post');
+Route::get('/category/{slug}', 'Web\PageController@category')->name('category');
+Route::get('/tag/{slug}', 'Web\PageController@tag')->name('tag');
+
+Route::resource('tags', 		'Admin\TagController');
+Route::resource('categories', 	'Admin\CategoryController');
+Route::resource('posts', 		'Admin\PostController');

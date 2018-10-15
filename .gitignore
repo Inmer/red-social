@@ -10,5 +10,6 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+# se incluye para evitar que se tenga que reconfigurar
 .env
 .phpunit.result.cache
