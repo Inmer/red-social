@@ -4,8 +4,10 @@
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-
-        	<h1>Lista de artículos</h1>
+            <div class="page-header">
+                <h1>Publicaciones</h1>
+            </div>
+        	
 
         	@foreach($posts as $post)
             <div class="panel panel-default">
