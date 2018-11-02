@@ -46,31 +46,25 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="Integrantes_muestra">
         <div class="my-auto">
-          <h2 class="mb-0">Inmer Omar
-            <span class="text-primary">Balcarcel Garrido</span>
+          <h2 class="mb-0"><a href="blog">Inmer Omar Balcarcel Garrido</a>
             <h3 class="mb-0">
                 <span class="text-primary">0900-10-2518</span>
             </h3>
           </h2>
 
-          <h2 class="mb-0">Kelvin
-            <span class="text-primary">André</span>
-            Sarat
-            <span class="text-primary">Gramajo</span>
+          <h2 class="mb-0"><a href="blog">Kelvin André Sarat Gramajo</a>
             <h3 class="mb-0">
                 <span class="text-primary">0900-14-1000</span>
             </h3>
           </h2>
 
           <h2 class="mb-0">
-            <span class="text-primary">Jeredick Alessandro</span>
-            Escobar Monroy
+            <span class="text-primary"><a href="blog">Jeredick Alessandro Escobar Monroy</a></span>
             <h3 class="mb-0">
                 <span class="text-primary">0900-14-20955</span>
             </h3>
           </h2>
-          <h2 class="mb-0">Adriana Estefanía
-                <span class="text-primary">Ruíz Baechli </span>
+          <h2 class="mb-0"><a href="blog">Adriana Estefanía Ruíz Baechli</a>
                 <h3 class="mb-0">
                     <span class="text-primary">0901-14-315</span>
                 </h3>
