@@ -48,25 +48,25 @@
         <div class="my-auto">
           <h2 class="mb-0"><a href="blog">Inmer Omar Balcarcel Garrido</a>
             <h3 class="mb-0">
-                <span class="text-primary">0900-10-2518</span>
+                    0900-10-2518
             </h3>
           </h2>
 
           <h2 class="mb-0"><a href="blog">Kelvin André Sarat Gramajo</a>
             <h3 class="mb-0">
-                <span class="text-primary">0900-14-1000</span>
+                    0900-14-1000
             </h3>
           </h2>
 
           <h2 class="mb-0">
             <span class="text-primary"><a href="blog">Jeredick Alessandro Escobar Monroy</a></span>
             <h3 class="mb-0">
-                <span class="text-primary">0900-14-20955</span>
+                    0900-14-20955
             </h3>
           </h2>
           <h2 class="mb-0"><a href="blog">Adriana Estefanía Ruíz Baechli</a>
                 <h3 class="mb-0">
-                    <span class="text-primary">0901-14-315</span>
+                        0901-14-315
                 </h3>
           </h2>
     </div>
