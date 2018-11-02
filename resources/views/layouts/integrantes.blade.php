@@ -27,7 +27,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="blog">
-        <span class="d-block d-lg-none">Clarence Taylor</span>
+        <span class="d-block d-lg-none">Integrantes del Grupo</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         </span>
@@ -66,7 +66,7 @@
             <span class="text-primary">Jeredick Alessandro</span>
             Escobar Monroy
             <h3 class="mb-0">
-                <span class="text-primary">0900-10-2518</span>
+                <span class="text-primary">0900-14-20955</span>
             </h3>
           </h2>
           <h2 class="mb-0">Adriana Estefanía
